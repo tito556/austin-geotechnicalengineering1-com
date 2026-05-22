@@ -1,0 +1,62 @@
+# Austin
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Active Passive Anchor Design](https://austin.geotechnicalengineering1.com/active-passive-anchor-design/)
+- [Atterberg Limits](https://austin.geotechnicalengineering1.com/atterberg-limits/)
+- [Base Isolation Seismic Design](https://austin.geotechnicalengineering1.com/base-isolation-seismic-design/)
+- [Bearing Capacity Analysis](https://austin.geotechnicalengineering1.com/bearing-capacity-analysis/)
+- [Contaminated Soil Remediation](https://austin.geotechnicalengineering1.com/contaminated-soil-remediation/)
+- [Debris Flow Analysis](https://austin.geotechnicalengineering1.com/debris-flow-analysis/)
+- [Deep Soil Mixing](https://austin.geotechnicalengineering1.com/deep-soil-mixing/)
+- [Diaphragm Wall Design](https://austin.geotechnicalengineering1.com/diaphragm-wall-design/)
+- [Differential Settlement Analysis](https://austin.geotechnicalengineering1.com/differential-settlement-analysis/)
+- [Direct Shear](https://austin.geotechnicalengineering1.com/direct-shear/)
+- [Driven Pile Design](https://austin.geotechnicalengineering1.com/driven-pile-design/)
+- [Dynamic Compaction Design](https://austin.geotechnicalengineering1.com/dynamic-compaction-design/)
+- [Electrical Resistivity Ves](https://austin.geotechnicalengineering1.com/electrical-resistivity-ves/)
+- [Existing Pavement Evaluation](https://austin.geotechnicalengineering1.com/existing-pavement-evaluation/)
+- [Exploratory Pit](https://austin.geotechnicalengineering1.com/exploratory-pit/)
+- [Field Density](https://austin.geotechnicalengineering1.com/field-density/)
+- [Field Permeability](https://austin.geotechnicalengineering1.com/field-permeability/)
+- [Field Vane Shear](https://austin.geotechnicalengineering1.com/field-vane-shear/)
+- [Flat Dilatometer](https://austin.geotechnicalengineering1.com/flat-dilatometer/)
+- [Foundations](https://austin.geotechnicalengineering1.com/foundations/)
+- [Foundations Fill](https://austin.geotechnicalengineering1.com/foundations-fill/)
+- [Geocell Design](https://austin.geotechnicalengineering1.com/geocell-design/)
+- [Geogrid Specification](https://austin.geotechnicalengineering1.com/geogrid-specification/)
+- [Geomembrane Specification](https://austin.geotechnicalengineering1.com/geomembrane-specification/)
+- [Geophysics](https://austin.geotechnicalengineering1.com/geophysics/)
+- [Geotechnical Analysis Soft Soil](https://austin.geotechnicalengineering1.com/geotechnical-analysis-soft-soil/)
+- [Geotechnical Drainage Design](https://austin.geotechnicalengineering1.com/geotechnical-drainage-design/)
+- [Geotechnical Excavation Monitoring](https://austin.geotechnicalengineering1.com/geotechnical-excavation-monitoring/)
+- [Geotechnical Instrumentation](https://austin.geotechnicalengineering1.com/geotechnical-instrumentation/)
+- [Geotextile Specification](https://austin.geotechnicalengineering1.com/geotextile-specification/)
+- [Ground Improvement](https://austin.geotechnicalengineering1.com/ground-improvement/)
+- [Ground Penetrating Radar](https://austin.geotechnicalengineering1.com/ground-penetrating-radar/)
+- [Grouting Design](https://austin.geotechnicalengineering1.com/grouting-design/)
+- [Hvsr Microtremor Survey](https://austin.geotechnicalengineering1.com/hvsr-microtremor-survey/)
+- [In Situ Testing](https://austin.geotechnicalengineering1.com/in-situ-testing/)
+- [Investigation](https://austin.geotechnicalengineering1.com/investigation/)
+- [Jet Grouting Design](https://austin.geotechnicalengineering1.com/jet-grouting-design/)
+- [Laboratory](https://austin.geotechnicalengineering1.com/laboratory/)
+- [Laboratory Permeability](https://austin.geotechnicalengineering1.com/laboratory-permeability/)
+- [Landfill Geotechnics](https://austin.geotechnicalengineering1.com/landfill-geotechnics/)
+- [Landslide Assessment](https://austin.geotechnicalengineering1.com/landslide-assessment/)
+- [Mechanically Stabilized Earth](https://austin.geotechnicalengineering1.com/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://austin.geotechnicalengineering1.com/menard-pressuremeter/)
+- [Micropile Design](https://austin.geotechnicalengineering1.com/micropile-design/)
+- [Pavement Subgrade Design](https://austin.geotechnicalengineering1.com/pavement-subgrade-design/)
+- [Pile Foundation Design](https://austin.geotechnicalengineering1.com/pile-foundation-design/)
+- [Pile Skin Friction Vs](https://austin.geotechnicalengineering1.com/pile-skin-friction-vs/)
+- [Plate Load](https://austin.geotechnicalengineering1.com/plate-load/)
+- [Preloading Surcharge Design](https://austin.geotechnicalengineering1.com/preloading-surcharge-design/)
+- [Retaining Wall Design](https://austin.geotechnicalengineering1.com/retaining-wall-design/)
+
+## Contact
+- Website: https://austin.geotechnicalengineering1.com/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.

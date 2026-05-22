@@ -1,0 +1,20 @@
+{
+  "name": "Austin",
+  "short_name": "Austin",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#8B4513",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Professional geotechnical services in Austin, USA. Soil studies, testing and technical consulting.",
+  "id": "/austin-3338"
+}
